@@ -12,7 +12,7 @@ SEIC is a browser-based demo application that combines simple AI models with com
 - **Core**: HTML5, CSS3, JavaScript (ES6+)
 - **AI**: TensorFlow.js, Teachable Machine
 - **Vision**: Canvas API, ImageData API, WebRTC API
-- **UI**: Font Awesome, CSS Grid/Flexbox
+- **UI**: Font Awesome, CSS Grid/Flexbox, Figma Design
 
 ## 🚀 Quick Start
 
