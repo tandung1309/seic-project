@@ -21,7 +21,7 @@ Clone the repository:
 
 git clone https://github.com/tandung1309/seic-project.git
 
-cd seic-demo
+cd seic-project
 
 Download live server extension
 
