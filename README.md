@@ -5,7 +5,7 @@ SEIC is a browser-based demo application that combines simple AI models with com
 
 **Important Notes**:
 - The AI models are basic demonstrations trained using Google Teachable Machine
-- Accuracy is limited (sign language basic demo version by Teachable Machine ~50-60%, color detection ~90%)
+- Accuracy is limited (sign language basic demo version training 3 symbol signs: "hello", "I love you" , "yes" ~50-60%, color detection ~90%)
 - Designed as a proof-of-concept, not for production use
 
 ## 🖥️ Tech Stack
