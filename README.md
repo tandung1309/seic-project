@@ -17,10 +17,15 @@ SEIC is a browser-based demo application that combines simple AI models with com
 ## 🚀 Quick Start
 
 ### Local Setup
-1. Clone the repository:
+Clone the repository:
+
 git clone https://github.com/your-username/seic-demo.git
+
 cd seic-demo
+
 Download live server extension
+
 Right click on the index.html file -> Open with live server
+
 
 Enjoy!
