@@ -23,7 +23,7 @@ git clone https://github.com/tandung1309/seic-project.git
 
 cd seic-project
 
-Download live server extension
+Download live server extension (if you do not have one)
 
 Right click on the index.html file -> Open with live server
 
